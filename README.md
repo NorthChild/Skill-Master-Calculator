@@ -2,8 +2,8 @@
 
 first build of the "Skill Mastery Calculator"
 
-##############
-# ------------
+############################
+# ------------------------
 ##############
 FIRST BUILD
 ##############
@@ -20,8 +20,8 @@ subject (present weekly hours)
     + percentage to mastery (10k hours)
     + following year percentage to mastery 
     
-##############
-# ------------
+############################
+# ------------------------
 ##############
 SECOND BUILD
 ##############
@@ -31,6 +31,6 @@ SECOND BUILD
 - being able to save previous masteries 
 
 
-##############
-# ------------
-##############
+############################
+# ------------------------
+############################

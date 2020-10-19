@@ -38,10 +38,13 @@ percentage_left = int(100 - percentage_to_completion)
 # print all results
 print(' ')
 print('--------------------------------------')
+print('--------------------------------------')
+print(' ')
 
 # print name of mastery to complete
 print('Mastery to complete:\n' + (mastery_name).upper())
-print('----')
+print(' ')
+print('--------------------------------------')
 
 # accumulated hours
 print('Your Total Hours Accumulated:\n' + str(past_hours) + ' hours.')
@@ -49,38 +52,24 @@ print('Your Total Hours Accumulated:\n' + str(past_hours) + ' hours.')
 # yearly hours following weekly hours
 print('Your yearly total towards Mastery\n(at ' + str(weekly_mastery_addition) +
       ' hours a week)\nis:', str(yearly_hours) + ' hours a year.')
-print('----')
+print(' ')
+print('--------------------------------------')
 
 # percentage to mastery and percentage left to master
 print('Current Track to Mastery..\n'
       'Percentage of Mastery:', percentage_to_completion, '%')
 print('Percentage Left:', percentage_left, '%')
-print('----')
+print(' ')
+print('--------------------------------------')
 
 
 ########################################################################################################################
 # percentage after 1,2,3,4 years
 # after 1 year
 print('After 1 more year..\n'
-      'Total Hours:',
       'Percentage of Mastery:',(percentage_to_completion + yearly_hours_percentage), '%\n'
       'Percentage Left:', (100 - (percentage_to_completion + yearly_hours_percentage)), '%')
-
-# after 2 years
-#print('After 1 more year..\n'
-#      'Percentage of Mastery:',(percentage_to_completion + yearly_hours_percentage), '%\n'
-#      'Percentage Left:', (100 - (percentage_to_completion + yearly_hours_percentage)), '%')
-
-# after 3 years
-
-
-########################################################################################################################
-# at this pase you will reach mastery in....to do
-
+print(' ')
 print('--------------------------------------')
-print('')
-print('----test area----')
-#print(percentage_to_completion)
-#print(yearly_hours_percentage)
-print('----test area----')
-
+print('--------------------------------------')
+########################################################################################################################

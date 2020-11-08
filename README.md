@@ -34,3 +34,9 @@ SECOND BUILD
 ############################
 # ------------------------
 ############################
+
+
+<img width="1440" alt="mastery_calc_1" src="https://user-images.githubusercontent.com/65109289/98468489-fa3fbb80-21da-11eb-88e1-950bd0df1da0.png">
+
+<img width="1440" alt="Mastery_calc_2" src="https://user-images.githubusercontent.com/65109289/98468513-16435d00-21db-11eb-8fd8-88e90e099a07.png">
+

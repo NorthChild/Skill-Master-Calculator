@@ -1,5 +1,7 @@
 # Skill-Master-Calculator
 
+# work in progress
+
 first build of the "Skill Mastery Calculator"
 
 ###########

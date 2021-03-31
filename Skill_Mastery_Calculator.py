@@ -94,8 +94,7 @@ if (percentage_to_completion < 100):
           f'At the current rate you will have reached 10.000 hours in {counter} years.\n'
           'KEEP AT IT!')
     print(' ')
-    # here we put the count down to how long it'll take to reach 10k at current rate
-    # insert code here
+
 else:
     print('You Already reached 10.000 hours! \n'
     'CONGRATULATIONS!')
